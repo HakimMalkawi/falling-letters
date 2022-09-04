@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/falling-letters/static/css/main.7a613cc8.css",
+    "main.js": "/falling-letters/static/js/main.ce709aee.js",
+    "index.html": "/falling-letters/index.html",
+    "main.7a613cc8.css.map": "/falling-letters/static/css/main.7a613cc8.css.map",
+    "main.ce709aee.js.map": "/falling-letters/static/js/main.ce709aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a613cc8.css",
+    "static/js/main.ce709aee.js"
+  ]
+}
