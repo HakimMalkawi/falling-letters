@@ -1,0 +1,4 @@
+.deadzone_wrapper { 
+    grid-area: deadzone; 
+    z-index: 0;
+    border-top: dashed .5rem var( --ivory ); }

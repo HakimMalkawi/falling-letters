@@ -1,0 +1,20 @@
+:root {
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --dark: #2F2F2F;
+    --light: #F2F2F2;
+    --blue: #4BE0E3;
+    --teal: #00C38F;
+    --ruby: #CD0145; 
+    --slate: #364154;
+    --ivory: #ECD7C1; }
+
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box; }
+
+body { background-color: var(--dark); }

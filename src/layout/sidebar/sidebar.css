@@ -1,0 +1,15 @@
+.sidebar_wrapper { 
+    grid-area: sidebar;
+    z-index: 1;
+    padding: 2rem 0;
+    border-left: solid .5rem var( --ivory ); }
+
+.sidebar_wrapper h1 {
+    font-size: 4rem;
+    color: var( --ivory );
+    text-align: center;
+    margin-bottom: -1rem; }
+
+.sidebar_wrapper h2 {
+    font-size: 8rem;
+    text-align: center; }

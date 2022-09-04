@@ -1,0 +1,41 @@
+.letter { 
+    position: fixed; 
+    display: grid;
+    place-content: center;
+    border-radius: 1rem;
+    border: 2px solid var( --ivory ); }
+
+.size-small {
+    height: 4rem;
+    width: 4rem;
+    font-size: 3rem; }
+
+.size-medium {
+    height: 6rem;
+    width: 6rem;
+    font-size: 6rem; }
+
+.size-big {
+    height: 12rem;
+    width: 12rem;
+    font-size: 12rem; }
+
+.font-small p { font-size: 60%; }
+.font-medium p { font-size: 80%; }
+.font-big p { font-size: 100%; }
+
+.teal { 
+    background-color: var( --teal );
+    color: var( --dark ); }
+
+.ruby { 
+    background-color: var( --ruby ); 
+    color: var( --ivory ); }
+
+.slate { 
+    background-color: var( --slate ); 
+    color: var( --ivory ); }
+
+.ivory { 
+    background-color: var( --ivory ); 
+    color: var( --dark ); }

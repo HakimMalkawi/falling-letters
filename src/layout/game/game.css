@@ -1,0 +1,4 @@
+.game_wrapper {
+    display: grid;
+    grid-template: 85vh 15vh / 85vw 15vw;
+    grid-template-areas: "active sidebar" "deadzone sidebar" }

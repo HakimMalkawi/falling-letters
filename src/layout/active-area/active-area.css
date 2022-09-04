@@ -1,0 +1,3 @@
+.active-area_wrapper {
+    grid-area: active;
+    z-index: 1; }
